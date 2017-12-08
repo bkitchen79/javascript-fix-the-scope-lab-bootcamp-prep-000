@@ -5,8 +5,6 @@ function myAnimal() {
   return animal
 }
 
-myAnimal()
-
 function yourAnimal() {
   var animal = 'cat'
   // How can we make sure that this function
@@ -14,8 +12,6 @@ function yourAnimal() {
   // P.S.: You can't just hard-code 'cat' below
   return animal
 }
-
-yourAnimal()
 
 function add2(n) {
   const two = 2
